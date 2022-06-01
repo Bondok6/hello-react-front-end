@@ -1,5 +1,11 @@
+import Greeting from './components/Greeting';
+
 function App() {
-  return <div>Hello</div>;
+  return (
+    <>
+      <Greeting />
+    </>
+  );
 }
 
 export default App;
