@@ -2,6 +2,8 @@
 
 > Practice how to use rails with react in two projects.
 
+https://user-images.githubusercontent.com/45231276/171066060-f5590d10-6c39-43aa-8b84-8317d0071902.mp4
+
 ## Built With
 - React
 - Redux
