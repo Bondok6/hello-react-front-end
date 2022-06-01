@@ -1,7 +1,5 @@
-import React from 'react';
-
-function Greeting() {
-  return <div>Greeting</div>;
+function Greeting({ message }) {
+  return <h2 align="center">Random Greeting: {message}</h2>;
 }
 
 export default Greeting;
